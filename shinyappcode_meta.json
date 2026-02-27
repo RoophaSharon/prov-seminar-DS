@@ -1,7 +1,8 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
   "@type": "SoftwareSourceCode",
-  "name": "GlobalAIContentImpactDV",
+  "name": "Global AI Content Impact DV",
+  "identifier": "https://doi.org/10.5281/zenodo.18805227"
   "description": "Short description of what the software does.",
   "codeRepository": "https://github.com/RoophaSharon/odkg-seminar-DS",
   "license": "https://spdx.org/licenses/MIT.html",
