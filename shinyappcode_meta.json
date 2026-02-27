@@ -1,0 +1,20 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "GlobalAIContentImpactDV",
+  "description": "Short description of what the software does.",
+  "codeRepository": "https://github.com/RoophaSharon/odkg-seminar-DS",
+  "license": "https://spdx.org/licenses/MIT.html",
+  "version": "0.1.0",
+  "datePublished": "2026-02-27",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Roopha",
+      "familyName": "Sharon_Jefferson_Ravi",
+      "email": "rufasharon@gmail.com"
+    }
+  ],
+  "programmingLanguage": ["r"],
+  "issueTracker": "https://github.com/RoophaSharon/odkg-seminar-DS/issues"
+}
