@@ -1,6 +1,8 @@
 # odkg-seminar-DS
 # Global AI Impact (Data Visualization)
 
+[![DOI](https://zenodo.org/badge/1167865968.svg)](https://doi.org/10.5281/zenodo.18805227)
+
 ## Overview
 This repository contains an interactive R Shiny dashboard developed for the **Data Visualization** 
 The dashboard supports analysis of the *Global AI Content Impact Dataset* through four research questions (RQ1???RQ4) using coordinated views, interactive filtering, and multiple visualization idioms.
