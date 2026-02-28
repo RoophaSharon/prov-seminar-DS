@@ -1,7 +1,8 @@
 # prov-seminar-DS
 
-https://doi.org/10.5281/zenodo.18809451
-
+[https://doi.org/10.5281/zenodo.18809451
+](https://zenodo.org/badge/DOI/10.5281/zenodo.18809451.svg
+)
 ## Overview
 This repository contains 
 - `prov.png`: A provenance diagram for the survey study (Practical Exercise 2).
