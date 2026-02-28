@@ -18,11 +18,6 @@ If you use this software, please cite:
 The application expects a CSV file located at:
 `data/Global_AI_Content_Impact_Dataset.csv`
 
-The dataset should contain columns corresponding to:
-- Country, Year, Industry
-- Adoption, Content Volume, Job Loss, Revenue Increase, Collaboration, Trust, Market Share
-- Top AI Tools Used, Regulation Status
-
 > Important: The app loads the CSV using a **relative path**, so the `data/` folder must be present when running locally and when deploying.
 
 ## How to Run Locally (RStudio)
