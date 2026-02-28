@@ -1,6 +1,6 @@
 # prov-seminar-DS
 
-[![DOI](https://zenodo.org/badge/1167865968.svg)](https://doi.org/10.5281/zenodo.18805227)
+[[![DOI](https://zenodo.org/badge/1167865968.svg)](https://doi.org/10.5281/zenodo.18805227)](https://doi.org/10.5281/zenodo.18809451)
 
 ## Overview
 This repository contains 
@@ -12,7 +12,7 @@ This project is licensed under the Apache License 2.0 – see the [LICENSE](LICE
 
 ## Citation
 If you use this software, please cite:
-> Roopha Sharon, "Global AI Content Impact DV", v1.0.0, DOI: 10.5281/zenodo.18805228
+> Roopha Sharon, "Global AI Content Impact DV", v1.0.0, DOI: 10.5281/zenodo.18809451
 
 ## Dataset Requirements
 The application expects a CSV file located at:
