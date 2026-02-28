@@ -1,6 +1,6 @@
 # prov-seminar-DS
 
-[[![DOI](https://zenodo.org/badge/1167865968.svg)](https://doi.org/10.5281/zenodo.18805227)](https://doi.org/10.5281/zenodo.18809451)
+https://doi.org/10.5281/zenodo.18809451
 
 ## Overview
 This repository contains 
