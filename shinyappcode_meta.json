@@ -3,9 +3,9 @@
   "@type": "SoftwareSourceCode",
   "name": "Global AI Content Impact DV",
   "identifier": "https://doi.org/10.5281/zenodo.18805227"
-  "description": "Short description of what the software does.",
-  "codeRepository": "https://github.com/RoophaSharon/odkg-seminar-DS",
-  "license": "https://spdx.org/licenses/MIT.html",
+  "description": "This a dashboard for visualizing Global impact of AI.",
+  "codeRepository": "https://github.com/RoophaSharon/prov-seminar-DS",
+  "license": "https://spdx.org/licenses/Apache2.0.html",
   "version": "0.1.0",
   "datePublished": "2026-02-27",
   "author": [
@@ -17,5 +17,5 @@
     }
   ],
   "programmingLanguage": ["r"],
-  "issueTracker": "https://github.com/RoophaSharon/odkg-seminar-DS/issues"
+  "issueTracker": "https://github.com/RoophaSharon/prov-seminar-DS/issues"
 }
