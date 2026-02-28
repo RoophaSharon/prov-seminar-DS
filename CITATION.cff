@@ -6,6 +6,6 @@ date-released: 2026-02-27
 authors:
   - family-names: "SHARON_JEFFERSON_RAVI"
     given-names: "ROOPHA"
-repository-code: "https://github.com/RoophaSharon/odkg-seminar-DS"
-license: "MIT"
+repository-code: "https://github.com/RoophaSharon/prov-seminar-DS"
+license: "Apache 2.0"
 doi: "10.5281/zenodo.18805228"
