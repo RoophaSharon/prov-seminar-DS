@@ -2,7 +2,7 @@
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
   "@type": "SoftwareSourceCode",
   "name": "Global AI Content Impact DV",
-  "identifier": "https://doi.org/10.5281/zenodo.18805227"
+  "identifier": "https://doi.org/10.5281/zenodo.18809451"
   "description": "This a dashboard for visualizing Global impact of AI.",
   "codeRepository": "https://github.com/RoophaSharon/prov-seminar-DS",
   "license": "https://spdx.org/licenses/Apache2.0.html",
